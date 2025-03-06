@@ -7,7 +7,7 @@ eureka:
   instance:
     hostname: localhost
 
-micorservices:
+microservices:
   order-service:
     endpoints:
       url: http://ORDER-SERVICE/order
